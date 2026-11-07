@@ -209,4 +209,4 @@ This repository serves as the official landing page for Able RAWer. The software
 **Get the most recent version of Able RAWer today!**
 
 ---
-**Last updated:** 2026-11-06 21:51:23 UTC
+**Last updated:** 2026-11-07 01:25:16 UTC
